@@ -26,4 +26,6 @@
  
  ## email:
  
-mail id is:![gmail](18H71A0533@mictech.ac.in)
+mail id is:
+(18H71A0533@mictech.ac.in)
+
